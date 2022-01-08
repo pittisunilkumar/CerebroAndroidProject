@@ -24,7 +24,7 @@
 ***Result Page***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.16%20PM.jpeg" width="500" height="700">
+<img src="WhatsApp Image 2022-01-08 at 7.21.16 PM.jpeg" width="500" height="700">
 
 ***Logout***
 
