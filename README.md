@@ -4,29 +4,29 @@
 ***Register Page***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.15%20PM.jpeg" width="500" height="300">
+<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.15%20PM.jpeg" width="500" height="700">
 
 ***Login Page***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.15%20PM%20(1).jpeg" width="500" height="300">
+<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.15%20PM%20(1).jpeg" width="500" height="700">
 
 ***Home Page***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/f591beff6216752d470ee53d6ffd9bb39461cebd/WhatsApp%20Image%202022-01-08%20at%207.21.14%20PM.jpeg" width="500" height="300">
+<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/f591beff6216752d470ee53d6ffd9bb39461cebd/WhatsApp%20Image%202022-01-08%20at%207.21.14%20PM.jpeg" width="500" height="700">
 
 ***Searching Function***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.16%20PM%20(1).jpeg" width="500" height="300">
+<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.16%20PM%20(1).jpeg" width="500" height="700">
 
 ***Result Page***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.16%20PM.jpeg" width="500" height="300">
+<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/WhatsApp%20Image%202022-01-08%20at%207.21.16%20PM.jpeg" width="500" height="700">
 
 ***Logout***
 
 
-<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/logout.jpeg" width="500" height="300">
+<img src="https://github.com/pittisunilkumar/CerebroAndroidProject/blob/main/logout.jpeg" width="500" height="700">
